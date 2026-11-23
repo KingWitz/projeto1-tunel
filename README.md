@@ -1,1 +1,2 @@
-# projeto1-tunel
+Este projeto consiste no desenvolvimento de um protótipo de segurança inteligente para túneis, baseado num ESP32, que monitoriza em tempo real as condições ambientais e de tráfego para detetar incêndios, fumo ou veículos imobilizados. Através de sensores de temperatura, fumo, infravermelhos e ultrassons, o sistema aciona automaticamente protocolos de emergência, ligando a ventilação de exaustão, fechando as cancelas de acesso e ativando alarmes, enquanto apresenta a telemetria e controlos manuais num LCD local e num dashboard.
+
